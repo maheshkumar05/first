@@ -41,6 +41,11 @@ INSERT INTO dbo.Customers
 GO 
 
 
+-- Select rows from table 'Customers' 
+SELECT * FROM dbo.Customers; 
+
+
+
 
 
 
